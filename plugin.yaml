@@ -1,0 +1,16 @@
+name: hermes-wallpaper
+label: Wallpaper
+version: 1.0.0
+requires_hermes: ">=0.22.1"
+author: jangomango76
+homepage: https://github.com/jangomango76/hermes-wallpaper
+description: >
+  Put any image, GIF or short video from your drive behind the whole Hermes
+  Desktop window. Pick a file with the normal file dialog (or drop it in),
+  then tune opacity, blur, brightness, saturation, contrast, vignette, fit,
+  anchor, zoom and mirroring; videos get speed and pause-when-hidden controls,
+  and a small library with an optional slideshow keeps several backgrounds.
+  Desktop-only (desktop/plugin.js): no agent tools, hooks, env vars, network
+  calls or backend. Picked files are copied into the app's own local
+  IndexedDB on that computer and never leave it.
+tags: [desktop, appearance, wallpaper, background, video]
